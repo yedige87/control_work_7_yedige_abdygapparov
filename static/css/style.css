@@ -2,14 +2,12 @@
     width: 700px;
     margin: 0 auto;
 }
-
 .guest-message {
     padding: 15px;
     border: 1px solid lightgray;
     border-radius: 6px;
     margin-bottom: 20px;
 }
-
 .message-header {
     display: flex;
     align-items: center;
@@ -20,4 +18,17 @@
 }
 .guest-mail {
     font-weight: 700;
+}
+.btn {
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+.cancel-btn {
+    background: blue;
+}
+.confirm-btn {
+    margin-left: 10px;
+    background: red;
 }
