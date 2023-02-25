@@ -1,0 +1,122 @@
+[
+{
+  "model": "webapp.gbook",
+  "pk": 1,
+  "fields": {
+    "name": "John Doe",
+    "email": "john_d@yahoo.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias dicta enim esse ex, quod similique ullam. Quia repellat sapiente velit!",
+    "status": "active",
+    "created_at": "2023-02-25T08:24:13.988Z",
+    "updated_at": "2023-02-25T08:24:13.988Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 2,
+  "fields": {
+    "name": "William Simmons",
+    "email": "w.simmons@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error illum omnis quibusdam, quisquam reprehenderit tempora!",
+    "status": "active",
+    "created_at": "2023-02-25T08:25:58.373Z",
+    "updated_at": "2023-02-25T08:25:58.374Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 3,
+  "fields": {
+    "name": "John Ray",
+    "email": "john_ray@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, repellat!",
+    "status": "active",
+    "created_at": "2023-02-25T08:26:46.703Z",
+    "updated_at": "2023-02-25T08:26:46.703Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 4,
+  "fields": {
+    "name": "Brandon Wilson",
+    "email": "bw_2020@yahoo.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci asperiores blanditiis, deserunt doloribus explicabo facilis fugit laboriosam mollitia officia, perferendis quo saepe unde vitae voluptate!",
+    "status": "active",
+    "created_at": "2023-02-25T08:27:22.487Z",
+    "updated_at": "2023-02-25T08:27:22.487Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 5,
+  "fields": {
+    "name": "Mary Moss",
+    "email": "mary_2018@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias placeat quia vitae.",
+    "status": "active",
+    "created_at": "2023-02-25T08:27:47.903Z",
+    "updated_at": "2023-02-25T08:27:47.903Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 6,
+  "fields": {
+    "name": "James Curry",
+    "email": "j.curry@yahoo.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "status": "active",
+    "created_at": "2023-02-25T08:28:11.629Z",
+    "updated_at": "2023-02-25T08:28:11.630Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 7,
+  "fields": {
+    "name": "Mary Hart",
+    "email": "m_hart80@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed!",
+    "status": "active",
+    "created_at": "2023-02-25T08:28:33.794Z",
+    "updated_at": "2023-02-25T08:28:33.794Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 8,
+  "fields": {
+    "name": "Stephen Woods",
+    "email": "st.woods@yahoo.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem doloribus eligendi, laboriosam omnis rem temporibus?",
+    "status": "active",
+    "created_at": "2023-02-25T08:29:08.741Z",
+    "updated_at": "2023-02-25T08:29:08.741Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 9,
+  "fields": {
+    "name": "Vivian Williams",
+    "email": "vivi_24@yahoo.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, quaerat.",
+    "status": "active",
+    "created_at": "2023-02-25T08:29:37.733Z",
+    "updated_at": "2023-02-25T08:29:37.733Z"
+  }
+},
+{
+  "model": "webapp.gbook",
+  "pk": 10,
+  "fields": {
+    "name": "Crystal Pittman",
+    "email": "crystal_89@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "status": "active",
+    "created_at": "2023-02-25T08:29:58.860Z",
+    "updated_at": "2023-02-25T08:29:58.860Z"
+  }
+}
+]
