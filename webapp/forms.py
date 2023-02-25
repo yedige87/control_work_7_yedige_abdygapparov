@@ -6,7 +6,7 @@ from django.forms import widgets
 class RecordForm(forms.Form):
     name = forms.CharField(max_length=20, required=True, label='Пользователь')
     email = forms.CharField(max_length=30, required=True, label='Email')
-    text = forms.CharField(max_length=2000, required=True, label='Text',widget=widgets.Textarea)
+    text = forms.CharField(max_length=2000, required=True, label='Text', widget=widgets.Textarea)
 
     def clean_name(self):
         name = self.cleaned_data.get('name')
